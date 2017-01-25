@@ -4,4 +4,5 @@
 	</head>
 	<body>
 		<a>Hey there.  I'm an example because the tutorial files are corrupt.  Good work there buddy, perhaps you should fix them.</a>
+		<a>I'm just an update to the index file.</a>
 </html>
